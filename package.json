@@ -1,0 +1,49 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-brands-svg-icons": "^5.8.2",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.0.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "8.0.5",
+    "babel-preset-env": "^1.6.1",
+    "bootstrap": "^4.3.1",
+    "i": "^0.3.6",
+    "lodash": "^4.17.11",
+    "material-ui-slider": "^3.0.3",
+    "material-ui-slider-label": "git+https://github.com/tariqwest/material-ui-slider-label.git",
+    "npm": "^6.9.0",
+    "rc-slider": "^8.6.11",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.8.6",
+    "react-fontawesome": "^1.6.1",
+    "react-granim": "^1.1.0",
+    "react-particles-js": "^2.6.0",
+    "react-scripts": "2.1.8",
+    "react-semantic-ui-range": "^0.7.0",
+    "reactstrap": "^8.0.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "sudo": "^1.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
