@@ -16,7 +16,7 @@
     "lodash": "^4.17.11",
     "material-ui-slider": "^3.0.3",
     "material-ui-slider-label": "git+https://github.com/tariqwest/material-ui-slider-label.git",
-    "npm": "^6.9.0",
+    "npm": "^6.14.6",
     "rc-slider": "^8.6.11",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
