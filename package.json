@@ -13,7 +13,7 @@
     "babel-preset-env": "^1.6.1",
     "bootstrap": "^4.3.1",
     "i": "^0.3.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "material-ui-slider": "^3.0.3",
     "material-ui-slider-label": "git+https://github.com/tariqwest/material-ui-slider-label.git",
     "npm": "^6.9.0",
